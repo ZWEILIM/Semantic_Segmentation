@@ -1,0 +1,1 @@
+set PYTHONPATH=C:\Program Files (x86)\Study\Degree\Intern\Intern Project\CoANet;%PYTHONPATH%

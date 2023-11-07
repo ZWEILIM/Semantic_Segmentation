@@ -1,0 +1,20 @@
+set PYTHONPATH=C:\Program Files (x86)\Study\Degree\Intern\Intern Project\CoANet
+
+
+
+Changing dataset name in these file: 
+- data_augmentation.py
+- create_connection.py
+- tia.py
+- tia_crop.py
+- test.py
+- train.py
+
+
+
+Running these cmd command : 
+python data_augmentation.py
+python process\create_connection.py
+python test.py
+python train.py
+python opencvmask.py
